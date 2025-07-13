@@ -18,7 +18,7 @@ It helps you stay focused by reminding you of tasks at the exact time using desk
 ---
 
 ## 📁 Project Structure
-``
+```
 task-reminder/
 ├── Files/                         # All source code
 │   ├── main.py                   # CLI entry point
@@ -33,7 +33,7 @@ task-reminder/
 ├── requirements.txt              # Python dependencies
 ├── changelog.md                  # Version history and dev notes
 └── README.md                     # Project overview, usage, and structure
-``
+```
 ---
 
 ## ▶️ Usage
